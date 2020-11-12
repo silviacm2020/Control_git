@@ -6,7 +6,7 @@ import cv2
 import struct
 import math
 
-#define stream chunk   -- cambio
+#define stream chunk   -- Se hace un nuevo cambio
 chunk = 1024
 SHORT_NORMALIZE = (1.0/32768.0)
 
